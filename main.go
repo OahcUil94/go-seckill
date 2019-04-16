@@ -7,6 +7,9 @@ import (
 )
 
 func main() {
+	if err := initConfig(); err != nil {
+		panic(err)
+	}
 	beego.Run()
 }
 
