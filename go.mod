@@ -1,3 +1,3 @@
 module github.com/OahcUil94/go-seckill
 
-require github.com/astaxie/beego v1.11.1 // indirect
+require github.com/astaxie/beego v1.11.1
